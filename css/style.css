@@ -1,0 +1,14 @@
+.nav,
+.container {
+  text-align: Center;
+}
+.nav a {
+  color: green;
+}
+img {
+  border-radius: 30px;
+}
+.container {
+  size: 400 px;
+  background-color: yellowgreen;
+}
